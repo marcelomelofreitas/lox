@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/10/16 00:26:17.000.323,C:\Users\marcelo.SE7ESISTEMAS\Documents\Embarcadero\Studio\Projects\Project23.dproj=T:\PlataformaDsv\clox\src\clox.dproj</Transaction>
+    <Transaction>2019/10/16 00:27:19.000.516,=T:\PlataformaDsv\clox\src\Unit1.pas</Transaction>
+    <Transaction>2019/10/16 00:27:31.000.212,T:\PlataformaDsv\clox\src\Unit1.pas=T:\PlataformaDsv\clox\src\clox.main.pas</Transaction>
+    <Transaction>2019/10/16 00:29:04.000.840,=T:\PlataformaDsv\clox\src\Unit1.pas</Transaction>
+    <Transaction>2019/10/16 00:29:11.000.340,T:\PlataformaDsv\clox\src\clox.common.pas=T:\PlataformaDsv\clox\src\Unit1.pas</Transaction>
+    <Transaction>2019/10/16 00:29:14.000.291,=T:\PlataformaDsv\clox\src\Unit1.pas</Transaction>
+    <Transaction>2019/10/16 00:29:26.000.450,T:\PlataformaDsv\clox\src\clox.chunk.pas=T:\PlataformaDsv\clox\src\Unit1.pas</Transaction>
+    <Transaction>2019/10/16 00:33:14.000.729,=T:\PlataformaDsv\clox\src\clox.inc</Transaction>
+    <Transaction>2019/10/16 01:32:16.000.086,=T:\PlataformaDsv\clox\src\Unit1.pas</Transaction>
+    <Transaction>2019/10/16 01:32:21.000.329,T:\PlataformaDsv\clox\src\clox.memory.pas=T:\PlataformaDsv\clox\src\Unit1.pas</Transaction>
+    <Transaction>2019/10/16 02:19:19.000.557,=T:\PlataformaDsv\clox\src\Unit1.pas</Transaction>
+    <Transaction>2019/10/16 02:19:25.000.168,T:\PlataformaDsv\clox\src\Unit1.pas=T:\PlataformaDsv\clox\src\clox.debug.pas</Transaction>
+    <Transaction>2019/10/16 02:52:42.000.375,=T:\PlataformaDsv\clox\src\Unit1.pas</Transaction>
+    <Transaction>2019/10/16 02:52:47.000.461,T:\PlataformaDsv\clox\src\Unit1.pas=T:\PlataformaDsv\clox\src\clox.value.pas</Transaction>
+    <Transaction>2019/10/16 04:06:26.000.603,=T:\PlataformaDsv\clox\src\Unit1.pas</Transaction>
+    <Transaction>2019/10/16 04:06:38.000.615,T:\PlataformaDsv\clox\src\Unit1.pas=T:\PlataformaDsv\clox\src\clox.vm.pas</Transaction>
+    <Transaction>2019/10/16 07:03:34.000.717,=T:\PlataformaDsv\clox\Parte03\src\Unit1.pas</Transaction>
+    <Transaction>2019/10/16 07:03:43.000.786,T:\PlataformaDsv\clox\Parte03\src\Unit1.pas=T:\PlataformaDsv\clox\Parte03\src\clox.compiler.pas</Transaction>
+    <Transaction>2019/10/16 07:09:42.000.844,=T:\PlataformaDsv\clox\Parte03\src\Unit1.pas</Transaction>
+    <Transaction>2019/10/16 07:09:50.000.348,T:\PlataformaDsv\clox\Parte03\src\Unit1.pas=T:\PlataformaDsv\clox\Parte03\src\clox.scanner.pas</Transaction>
+    <Transaction>2019/10/16 07:29:14.000.655,=T:\PlataformaDsv\clox\Parte03\src\Unit1.pas</Transaction>
+    <Transaction>2019/10/16 07:29:25.000.578,T:\PlataformaDsv\clox\Parte03\src\clox.utils.pas=T:\PlataformaDsv\clox\Parte03\src\Unit1.pas</Transaction>
+    <Transaction>2019/10/16 17:26:39.000.333,=T:\PlataformaDsv\clox\Parte03\src\Unit1.pas</Transaction>
+    <Transaction>2019/10/16 17:27:11.000.988,=T:\PlataformaDsv\clox\Parte03\src\Unit1.pas</Transaction>
+    <Transaction>2019/10/16 17:27:16.000.012,T:\PlataformaDsv\clox\Parte03\src\clox.obj.pas=T:\PlataformaDsv\clox\Parte03\src\Unit1.pas</Transaction>
+    <Transaction>2019/10/16 19:30:44.000.960,=T:\PlataformaDsv\clox\Parte03\src\Unit1.pas</Transaction>
+    <Transaction>2019/10/16 19:30:51.000.818,T:\PlataformaDsv\clox\Parte03\src\clox.table.pas=T:\PlataformaDsv\clox\Parte03\src\Unit1.pas</Transaction>
+    <Transaction>2019/10/28 23:48:13.000.565,T:\PlataformaDsv\lox\Parte03\src\clox.dproj=T:\PlataformaDsv\lox\Parte03\src\lox.dproj</Transaction>
+    <Transaction>2019/10/28 23:48:15.000.897,T:\PlataformaDsv\lox\Parte03\src\clox.chunk.pas=T:\PlataformaDsv\lox\Parte03\src\lox.chunk.pas</Transaction>
+    <Transaction>2019/10/28 23:48:18.000.383,T:\PlataformaDsv\lox\Parte03\src\clox.common.pas=T:\PlataformaDsv\lox\Parte03\src\lox.common.pas</Transaction>
+    <Transaction>2019/10/28 23:48:21.000.045,T:\PlataformaDsv\lox\Parte03\src\clox.compiler.pas=T:\PlataformaDsv\lox\Parte03\src\lox.compiler.pas</Transaction>
+    <Transaction>2019/10/28 23:48:23.000.542,T:\PlataformaDsv\lox\Parte03\src\clox.debug.pas=T:\PlataformaDsv\lox\Parte03\src\lox.debug.pas</Transaction>
+    <Transaction>2019/10/28 23:48:25.000.974,T:\PlataformaDsv\lox\Parte03\src\clox.inc=T:\PlataformaDsv\lox\Parte03\src\lox.inc</Transaction>
+    <Transaction>2019/10/28 23:48:28.000.136,T:\PlataformaDsv\lox\Parte03\src\clox.main.pas=T:\PlataformaDsv\lox\Parte03\src\lox.main.pas</Transaction>
+    <Transaction>2019/10/28 23:48:30.000.141,T:\PlataformaDsv\lox\Parte03\src\clox.memory.pas=T:\PlataformaDsv\lox\Parte03\src\lox.memory.pas</Transaction>
+    <Transaction>2019/10/28 23:48:32.000.335,T:\PlataformaDsv\lox\Parte03\src\clox.obj.pas=T:\PlataformaDsv\lox\Parte03\src\lox.obj.pas</Transaction>
+    <Transaction>2019/10/28 23:48:34.000.254,T:\PlataformaDsv\lox\Parte03\src\clox.scanner.pas=T:\PlataformaDsv\lox\Parte03\src\lox.scanner.pas</Transaction>
+    <Transaction>2019/10/28 23:48:36.000.000,T:\PlataformaDsv\lox\Parte03\src\clox.table.pas=T:\PlataformaDsv\lox\Parte03\src\lox.table.pas</Transaction>
+    <Transaction>2019/10/28 23:48:37.000.905,T:\PlataformaDsv\lox\Parte03\src\clox.utils.pas=T:\PlataformaDsv\lox\Parte03\src\lox.utils.pas</Transaction>
+    <Transaction>2019/10/28 23:48:39.000.851,T:\PlataformaDsv\lox\Parte03\src\clox.value.pas=T:\PlataformaDsv\lox\Parte03\src\lox.value.pas</Transaction>
+    <Transaction>2019/10/28 23:48:41.000.747,T:\PlataformaDsv\lox\Parte03\src\clox.vm.pas=T:\PlataformaDsv\lox\Parte03\src\lox.vm.pas</Transaction>
+    <Transaction>2019/10/28 23:48:43.000.681,T:\PlataformaDsv\lox\Parte03\src\lox.chunk.pas=T:\PlataformaDsv\lox\Parte03\src\ox.chunk.pas</Transaction>
+    <Transaction>2019/10/28 23:50:18.000.114,T:\PlataformaDsv\lox\Parte03\src\ox.chunk.pas=T:\PlataformaDsv\lox\Parte03\src\lox.chunk.pas</Transaction>
+    <Transaction>2019/10/29 09:08:19.000.379,=T:\PlataformaDsv\lox\Parte04\src\Unit1.pas</Transaction>
+    <Transaction>2019/10/29 09:08:29.000.724,T:\PlataformaDsv\lox\Parte04\src\lox.types.pas=T:\PlataformaDsv\lox\Parte04\src\Unit1.pas</Transaction>
+    <Transaction>2019/10/29 09:16:39.000.670,T:\PlataformaDsv\lox\Parte04\src\lox.consts.pas=T:\PlataformaDsv\lox\Parte04\src\lox.common.pas</Transaction>
+    <Transaction>2019/10/29 15:48:29.000.242,T:\PlataformaDsv\lox\Parte04\src\luke.dproj=T:\PlataformaDsv\lox\Parte04\src\lox.dproj</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="lox.main.pas"/>
+    <File Path="lox.consts.pas"/>
+    <File Path="lox.chunk.pas"/>
+    <File Path="lox.memory.pas"/>
+    <File Path="lox.debug.pas"/>
+    <File Path="lox.value.pas"/>
+    <File Path="lox.vm.pas"/>
+    <File Path="lox.compiler.pas"/>
+    <File Path="lox.scanner.pas"/>
+    <File Path="lox.utils.pas"/>
+    <File Path="lox.obj.pas"/>
+    <File Path="lox.table.pas"/>
+    <File Path="lox.types.pas"/>
+    <File Path="lox.inc"/>
+  </ProjectSortOrder>
+</BorlandProject>
